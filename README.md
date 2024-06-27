@@ -17,7 +17,7 @@ En este espacio, espero compartir mis proyectos y progresos en el campo de la pr
 
 ## Conéctate conmigo
 
-Si compartes intereses similares o simplemente quieres conectar, no dudes en seguirme y ponerte en contacto. ¡Estoy emocionado de ser parte de esta increíble comunidad de GitHub!
+Si compartes intereses similares o simplemente quieres conectar, no dudes en seguirme y ponerte en contacto. ¡Estoy emocionada de ser parte de esta increíble comunidad de GitHub!
 
 ---
 
