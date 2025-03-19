@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Hola! Soy Alejandra Piñango, una entusiasta novata en el campo de la programación. Actualmente soy estudiante de Inteligencia Artificial, un área que me fascina y en la que estoy ansiosa por aprender y crecer.
+¡Hola! Soy Alejandra Piñango, una entusiasta novata en el campo de la programación. Acabo de terminar un Bootcamp en Inteligencia Artificial (Madrid - 1250 horas), un área que me fascina y en la que estoy ansiosa por aprender y crecer.
 
 ## Intereses
 
